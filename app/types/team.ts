@@ -10,4 +10,9 @@ export const teams: Team[] = [
     name: "Team COGO",
     description: "COGO 팀 일정 관리"
   },
+  {
+    id: "gdg-web",
+    name: "Team GDG WEB",
+    description: "GDG WEB 팀 일정 관리"
+  }
 ];
